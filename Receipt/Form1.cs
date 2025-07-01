@@ -29,7 +29,6 @@ namespace Receipt
             this.Load += new EventHandler(Form1_Load);
 
 
-
             // EPPlus lisans bağlamını ayarla
             ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
         }
