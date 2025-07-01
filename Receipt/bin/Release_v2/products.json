@@ -1,0 +1,604 @@
+[
+  {
+    "Id": 1,
+    "Name": "T\u00FCrk Kahvesi\n(K\u00FC\u00E7\u00FCk)",
+    "Price": 10.0,
+    "type": 1,
+    "Price2": 12.0
+  },
+  {
+    "Id": 2,
+    "Name": "T\u00FCrk Kahvesi\n(B\u00FCy\u00FCk)",
+    "Price": 10.0,
+    "type": 1,
+    "Price2": 12.0
+  },
+  {
+    "Id": 3,
+    "Name": "Damla Sak\u0131zl\u0131\nT\u00FCrk Kahvesi (K)",
+    "Price": 10.0,
+    "type": 1,
+    "Price2": 10.0
+  },
+  {
+    "Id": 4,
+    "Name": "Damla Sak\u0131zl\u0131\nT\u00FCrk Kahvesi (B)",
+    "Price": 10.0,
+    "type": 1,
+    "Price2": 10.0
+  },
+  {
+    "Id": 5,
+    "Name": "S\u00FCtl\u00FC T\u00FCrk Kahvesi\n(K\u00FC\u00E7\u00FCk)",
+    "Price": 10.0,
+    "type": 1,
+    "Price2": 10.0
+  },
+  {
+    "Id": 6,
+    "Name": "S\u00FCtl\u00FC T\u00FCrk Kahvesi\n(B\u00FCy\u00FCk)",
+    "Price": 10.0,
+    "type": 1,
+    "Price2": 10.0
+  },
+  {
+    "Id": 7,
+    "Name": "Menengi\u00E7 Kahvesi",
+    "Price": 12.0,
+    "type": 1,
+    "Price2": 12.0
+  },
+  {
+    "Id": 8,
+    "Name": "Espresso (K\u00FC\u00E7\u00FCk)",
+    "Price": 15.0,
+    "type": 1,
+    "Price2": 15.0
+  },
+  {
+    "Id": 9,
+    "Name": "Espresso (B\u00FCy\u00FCk)",
+    "Price": 15.0,
+    "type": 1,
+    "Price2": 15.0
+  },
+  {
+    "Id": 10,
+    "Name": "Americano (K\u00FC\u00E7\u00FCk)",
+    "Price": 15.0,
+    "type": 1,
+    "Price2": 15.0
+  },
+  {
+    "Id": 11,
+    "Name": "Americano (B\u00FCy\u00FCk)",
+    "Price": 15.0,
+    "type": 1,
+    "Price2": 15.0
+  },
+  {
+    "Id": 12,
+    "Name": "Latte (K\u00FC\u00E7\u00FCk)",
+    "Price": 18.0,
+    "type": 1,
+    "Price2": 18.0
+  },
+  {
+    "Id": 13,
+    "Name": "Latte (B\u00FCy\u00FCk)",
+    "Price": 18.0,
+    "type": 1,
+    "Price2": 18.0
+  },
+  {
+    "Id": 14,
+    "Name": "Chia Tea Latte\n(K\u00FC\u00E7\u00FCk)",
+    "Price": 18.0,
+    "type": 1,
+    "Price2": 18.0
+  },
+  {
+    "Id": 15,
+    "Name": "Chia Tea Latte\n(B\u00FCy\u00FCk)",
+    "Price": 18.0,
+    "type": 1,
+    "Price2": 18.0
+  },
+  {
+    "Id": 16,
+    "Name": "Pumpkin Spice\nLatte (K\u00FC\u00E7\u00FCk)",
+    "Price": 18.0,
+    "type": 1,
+    "Price2": 18.0
+  },
+  {
+    "Id": 17,
+    "Name": "Pumpkin Spice\nLatte (B\u00FCy\u00FCk)",
+    "Price": 18.0,
+    "type": 1,
+    "Price2": 18.0
+  },
+  {
+    "Id": 18,
+    "Name": "Filtre Kahve\n(K\u00FC\u00E7\u00FCk)",
+    "Price": 14.0,
+    "type": 1,
+    "Price2": 14.0
+  },
+  {
+    "Id": 19,
+    "Name": "Filtre Kahve\n(B\u00FCy\u00FCk)",
+    "Price": 14.0,
+    "type": 1,
+    "Price2": 14.0
+  },
+  {
+    "Id": 20,
+    "Name": "Cafe Mista\n(K\u00FC\u00E7\u00FCk)",
+    "Price": 14.0,
+    "type": 1,
+    "Price2": 14.0
+  },
+  {
+    "Id": 21,
+    "Name": "Cafe Mista\n(B\u00FCy\u00FCk)",
+    "Price": 14.0,
+    "type": 1,
+    "Price2": 14.0
+  },
+  {
+    "Id": 22,
+    "Name": "Cappuccino (K\u00FC\u00E7\u00FCk)",
+    "Price": 18.0,
+    "type": 1,
+    "Price2": 18.0
+  },
+  {
+    "Id": 23,
+    "Name": "Cappuccino (B\u00FCy\u00FCk)",
+    "Price": 18.0,
+    "type": 1,
+    "Price2": 18.0
+  },
+  {
+    "Id": 24,
+    "Name": "Black Mocha\n(K\u00FC\u00E7\u00FCk)",
+    "Price": 20.0,
+    "type": 1,
+    "Price2": 20.0
+  },
+  {
+    "Id": 25,
+    "Name": "Black Mocha\n(B\u00FCy\u00FCk)",
+    "Price": 20.0,
+    "type": 1,
+    "Price2": 20.0
+  },
+  {
+    "Id": 26,
+    "Name": "White Mocha\n(K\u00FC\u00E7\u00FCk)",
+    "Price": 18.0,
+    "type": 1,
+    "Price2": 18.0
+  },
+  {
+    "Id": 27,
+    "Name": "White Mocha\n(B\u00FCy\u00FCk)",
+    "Price": 18.0,
+    "type": 1,
+    "Price2": 18.0
+  },
+  {
+    "Id": 28,
+    "Name": "Caramel Macchiato\n(K\u00FC\u00E7\u00FCk)",
+    "Price": 22.0,
+    "type": 1,
+    "Price2": 22.0
+  },
+  {
+    "Id": 29,
+    "Name": "Caramel Macchiato\n(B\u00FCy\u00FCk)",
+    "Price": 22.0,
+    "type": 1,
+    "Price2": 22.0
+  },
+  {
+    "Id": 30,
+    "Name": "Flat White\n(K\u00FC\u00E7\u00FCk)",
+    "Price": 22.0,
+    "type": 1,
+    "Price2": 22.0
+  },
+  {
+    "Id": 31,
+    "Name": "Flat White\n(B\u00FCy\u00FCk)",
+    "Price": 22.0,
+    "type": 1,
+    "Price2": 22.0
+  },
+  {
+    "Id": 32,
+    "Name": "Ice Latte",
+    "Price": 18.0,
+    "type": 2,
+    "Price2": 18.0
+  },
+  {
+    "Id": 33,
+    "Name": "Ice Filtre",
+    "Price": 18.0,
+    "type": 2,
+    "Price2": 18.0
+  },
+  {
+    "Id": 34,
+    "Name": "Ice Cafe Mista",
+    "Price": 18.0,
+    "type": 2,
+    "Price2": 18.0
+  },
+  {
+    "Id": 35,
+    "Name": "Ice Flat White",
+    "Price": 18.0,
+    "type": 2,
+    "Price2": 18.0
+  },
+  {
+    "Id": 36,
+    "Name": "Ice Chai Tea\nLatte",
+    "Price": 18.0,
+    "type": 2,
+    "Price2": 18.0
+  },
+  {
+    "Id": 37,
+    "Name": "Ice Americano",
+    "Price": 15.0,
+    "type": 2,
+    "Price2": 15.0
+  },
+  {
+    "Id": 38,
+    "Name": "Ice Cappuccino",
+    "Price": 18.0,
+    "type": 2,
+    "Price2": 18.0
+  },
+  {
+    "Id": 39,
+    "Name": "Ice Caramel Mocha",
+    "Price": 22.0,
+    "type": 2,
+    "Price2": 22.0
+  },
+  {
+    "Id": 40,
+    "Name": "Ice Black Mocha",
+    "Price": 22.0,
+    "type": 2,
+    "Price2": 22.0
+  },
+  {
+    "Id": 41,
+    "Name": "Ice White Mocha",
+    "Price": 22.0,
+    "type": 2,
+    "Price2": 22.0
+  },
+  {
+    "Id": 42,
+    "Name": "Antep F\u0131st\u0131kl\u0131 Latte",
+    "Price": 20.0,
+    "type": 2,
+    "Price2": 20.0
+  },
+  {
+    "Id": 43,
+    "Name": "Cold Brew",
+    "Price": 18.0,
+    "type": 2,
+    "Price2": 18.0
+  },
+  {
+    "Id": 44,
+    "Name": "Demleme \u00C7ay",
+    "Price": 8.0,
+    "type": 3,
+    "Price2": 8.0
+  },
+  {
+    "Id": 45,
+    "Name": "Melisa \u00C7ay\u0131",
+    "Price": 10.0,
+    "type": 3,
+    "Price2": 10.0
+  },
+  {
+    "Id": 46,
+    "Name": "Ada \u00C7ay\u0131",
+    "Price": 10.0,
+    "type": 3,
+    "Price2": 10.0
+  },
+  {
+    "Id": 47,
+    "Name": "Ihlamur \u00C7ay\u0131",
+    "Price": 10.0,
+    "type": 3,
+    "Price2": 10.0
+  },
+  {
+    "Id": 48,
+    "Name": "Atom \u00C7ay\u0131",
+    "Price": 12.0,
+    "type": 3,
+    "Price2": 12.0
+  },
+  {
+    "Id": 49,
+    "Name": "Sahlep (K\u00FC\u00E7\u00FCk)",
+    "Price": 15.0,
+    "type": 3,
+    "Price2": 15.0
+  },
+  {
+    "Id": 50,
+    "Name": "Sahlep (B\u00FCy\u00FCk)",
+    "Price": 15.0,
+    "type": 3,
+    "Price2": 15.0
+  },
+  {
+    "Id": 51,
+    "Name": "Klasik S\u0131cak\n\u00C7ikolata (K\u00FC\u00E7\u00FCk)",
+    "Price": 15.0,
+    "type": 3,
+    "Price2": 15.0
+  },
+  {
+    "Id": 52,
+    "Name": "Klasik S\u0131cak\n\u00C7ikolata (B\u00FCy\u00FCk)",
+    "Price": 15.0,
+    "type": 3,
+    "Price2": 15.0
+  },
+  {
+    "Id": 53,
+    "Name": "Beyaz S\u0131cak\n\u00C7ikolata (K\u00FC\u00E7\u00FCk)",
+    "Price": 15.0,
+    "type": 3,
+    "Price2": 15.0
+  },
+  {
+    "Id": 54,
+    "Name": "Beyaz S\u0131cak\n\u00C7ikolata (B\u00FCy\u00FCk)",
+    "Price": 15.0,
+    "type": 3,
+    "Price2": 15.0
+  },
+  {
+    "Id": 55,
+    "Name": "Muzlu S\u00FCt",
+    "Price": 12.0,
+    "type": 4,
+    "Price2": 12.0
+  },
+  {
+    "Id": 56,
+    "Name": "Muzlu \u00C7ilekli S\u00FCt",
+    "Price": 12.0,
+    "type": 4,
+    "Price2": 12.0
+  },
+  {
+    "Id": 57,
+    "Name": "Muzlu Nutellal\u0131 S\u00FCt",
+    "Price": 15.0,
+    "type": 3,
+    "Price2": 15.0
+  },
+  {
+    "Id": 58,
+    "Name": "Muzlu F\u0131st\u0131kl\u0131 S\u00FCt",
+    "Price": 15.0,
+    "type": 3,
+    "Price2": 15.0
+  },
+  {
+    "Id": 59,
+    "Name": "\u00C7ilekli S\u00FCt",
+    "Price": 15.0,
+    "type": 3,
+    "Price2": 15.0
+  },
+  {
+    "Id": 60,
+    "Name": "Atom",
+    "Price": 15.0,
+    "type": 4,
+    "Price2": 15.0
+  },
+  {
+    "Id": 61,
+    "Name": "Azzurro (Mavi)",
+    "Price": 18.0,
+    "type": 4,
+    "Price2": 18.0
+  },
+  {
+    "Id": 62,
+    "Name": "Rosso (K\u0131rm\u0131z\u0131)",
+    "Price": 18.0,
+    "type": 4,
+    "Price2": 18.0
+  },
+  {
+    "Id": 63,
+    "Name": "Verde (Ye\u015Fil)",
+    "Price": 18.0,
+    "type": 4,
+    "Price2": 18.0
+  },
+  {
+    "Id": 64,
+    "Name": "Kar\u0131\u015F\u0131k \u0130talyan\nSoda",
+    "Price": 18.0,
+    "type": 4,
+    "Price2": 18.0
+  },
+  {
+    "Id": 65,
+    "Name": "\u00C7ilekli Milk Shake",
+    "Price": 20.0,
+    "type": 4,
+    "Price2": 20.0
+  },
+  {
+    "Id": 66,
+    "Name": "Frambuazl\u0131\nMilk Shake",
+    "Price": 20.0,
+    "type": 4,
+    "Price2": 20.0
+  },
+  {
+    "Id": 67,
+    "Name": "\u00C7ikolatal\u0131\nMilk Shake",
+    "Price": 20.0,
+    "type": 4,
+    "Price2": 20.0
+  },
+  {
+    "Id": 68,
+    "Name": "Muzlu\nMilk Shake",
+    "Price": 20.0,
+    "type": 4,
+    "Price2": 20.0
+  },
+  {
+    "Id": 69,
+    "Name": "Espresso\nMilk Shake",
+    "Price": 22.0,
+    "type": 4,
+    "Price2": 22.0
+  },
+  {
+    "Id": 70,
+    "Name": "Cool Lime",
+    "Price": 18.0,
+    "type": 4,
+    "Price2": 18.0
+  },
+  {
+    "Id": 71,
+    "Name": "Cool Berry",
+    "Price": 18.0,
+    "type": 4,
+    "Price2": 18.0
+  },
+  {
+    "Id": 72,
+    "Name": "Limonata",
+    "Price": 18.0,
+    "type": 4,
+    "Price2": 18.0
+  },
+  {
+    "Id": 73,
+    "Name": "Coca Cola",
+    "Price": 18.0,
+    "type": 4,
+    "Price2": 18.0
+  },
+  {
+    "Id": 74,
+    "Name": "Cola Zero",
+    "Price": 18.0,
+    "type": 4,
+    "Price2": 18.0
+  },
+  {
+    "Id": 75,
+    "Name": "Fanta",
+    "Price": 18.0,
+    "type": 4,
+    "Price2": 18.0
+  },
+  {
+    "Id": 76,
+    "Name": "Ice Tea",
+    "Price": 18.0,
+    "type": 4,
+    "Price2": 18.0
+  },
+  {
+    "Id": 77,
+    "Name": "Soda",
+    "Price": 18.0,
+    "type": 4,
+    "Price2": 18.0
+  },
+  {
+    "Id": 78,
+    "Name": "Su",
+    "Price": 18.0,
+    "type": 4,
+    "Price2": 18.0
+  },
+  {
+    "Id": 79,
+    "Name": "K\u00FClah",
+    "Price": 25.0,
+    "type": 6,
+    "Price2": 25.0
+  },
+  {
+    "Id": 80,
+    "Name": "Cornet",
+    "Price": 25.0,
+    "type": 6,
+    "Price2": 25.0
+  },
+  {
+    "Id": 81,
+    "Name": "Bardak",
+    "Price": 18.0,
+    "type": 4,
+    "Price2": 18.0
+  },
+  {
+    "Id": 82,
+    "Name": "Affan Haytal\u0131",
+    "Price": 18.0,
+    "type": 4,
+    "Price2": 18.0
+  },
+  {
+    "Id": 83,
+    "Name": "Bardak Waffle",
+    "Price": 18.0,
+    "type": 4,
+    "Price2": 18.0
+  },
+  {
+    "Id": 84,
+    "Name": "Dilim Pasta",
+    "Price": 18.0,
+    "type": 4,
+    "Price2": 18.0
+  },
+  {
+    "Id": 85,
+    "Name": "Ekler",
+    "Price": 18.0,
+    "type": 4,
+    "Price2": 18.0
+  },
+  {
+    "Id": 86,
+    "Name": "Sos",
+    "Price": 18.0,
+    "type": 4,
+    "Price2": 18.0
+  }
+]
