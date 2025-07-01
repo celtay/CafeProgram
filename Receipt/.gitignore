@@ -1,0 +1,16 @@
+# Visual Studio klasör ve dosyaları
+.vs/
+*.vsidx
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build sonuçları
+bin/
+obj/
+
+# Visual Studio cache/options directory
+.vs/
+*.vsidx
+FileContentIndex/
