@@ -27,8 +27,7 @@ namespace Receipt
         {
             InitializeComponent();
             this.Load += new EventHandler(Form1_Load);
-            //test license
-            //test3
+
 
 
             // EPPlus lisans bağlamını ayarla
