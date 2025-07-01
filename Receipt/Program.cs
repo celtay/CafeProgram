@@ -8,7 +8,7 @@ namespace Receipt
 {
     internal static class Program
     {
-        /// <summary>
+        /// <summary> tayfun
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
