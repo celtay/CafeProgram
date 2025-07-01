@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Receipt
 {
-
+    //tayfun Celebi
     public partial class Form1 : Form
     {
         private decimal totalPrice = 0;
